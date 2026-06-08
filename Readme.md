@@ -150,10 +150,10 @@ Studies the impact of travel and personal factors.
 ## 📷 Dashboard Screenshots
 
 ### Employee Demographics Dashboard
-<img width="2048" height="1330" alt="image" src="https://github.com/user-attachments/assets/0a7f30e0-90e6-44f8-909b-6319ce027df5" />
+<img width="2048" height="1330" alt="image" src="https://github.com/user-attachments/assets/6a0aa8db-a849-4a9a-92d7-323b712c6b1a" />
 
 ### Attrition Analysis Dashboard
-<img width="2048" height="1330" alt="image" src="https://github.com/user-attachments/assets/6a0aa8db-a849-4a9a-92d7-323b712c6b1a" />
+<img width="2048" height="1330" alt="image" src="https://github.com/user-attachments/assets/0a7f30e0-90e6-44f8-909b-6319ce027df5" />
 
 ### Compensation Dashboard
 <img width="2048" height="1330" alt="image" src="https://github.com/user-attachments/assets/d34cc408-8c29-45e8-9f3a-f19f037105d5" />
